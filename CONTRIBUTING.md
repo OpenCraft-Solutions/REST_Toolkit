@@ -20,7 +20,7 @@ Thank you for considering contributing to OpenCraft.REST_Toolkit! We appreciate 
 
 ## Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/OpenCraft/REST_Toolkit/issues) on GitHub.
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/OpenCraft-Solutions/REST_Toolkit/issues) on GitHub.
 
 ## Code of Conduct
 
